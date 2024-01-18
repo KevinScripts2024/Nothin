@@ -1,5 +1,5 @@
 local finishedKey = true
-local KeySystemUI = { Closed = false }
+local KeySystemUI = { Closed = true }
 local UIMade = false
 
 local UserInputService = game:GetService("UserInputService")
